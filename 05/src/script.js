@@ -11,6 +11,7 @@ let imgUrls = [
   "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-07.jpg",
 ];
 
+
 function addImg(image){
   let a = document.querySelectorAll("img");
   a.forEach(function(item , i){
