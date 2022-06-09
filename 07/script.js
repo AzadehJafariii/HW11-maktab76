@@ -12,6 +12,7 @@
 // if age in a row is 40 <= age < 80 then row background color must be red.
 // if age in a row is >= 80 then row background color must be blue.
 
+
 let employees = [
 { name: 'James', age: 9, country: 'United States' },
 { name: 'Rony', age: 31, country: 'United Kingdom' },
