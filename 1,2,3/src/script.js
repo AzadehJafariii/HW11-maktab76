@@ -20,7 +20,6 @@ function setColor(color) {
 setColor(color);
 
 
-
 let removebtn = document.createElement('button');
 removebtn.innerHTML = 'click to remove'
 removebtn.className = 'border-0 py-2 px-4 m-3 bg-yellow-200 font-bold rounded absolute left-16 top-2';
