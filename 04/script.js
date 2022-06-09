@@ -8,6 +8,7 @@ firstSlide.style.backgroundColor = "green";
 firstSlide.appendChild(header1);
 firstSlide.appendChild(paragraph1);
 
+
 let secondSlide = document.getElementById("second-slide");
 let header2 = document.createElement("h1");
 header2.textContent = "Your Big Idea";
